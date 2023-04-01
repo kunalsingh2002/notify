@@ -1,0 +1,29 @@
+.main_container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.notice_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.button_container{
+    margin-top: 20px;
+}
+
+
+.notice_fields{
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 500px;
+}
+
+.notice_location{
+    margin-left: 20px;
+    margin-right: 20px;
+    max-width: 300px;
+}
